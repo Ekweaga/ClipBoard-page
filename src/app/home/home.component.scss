@@ -43,7 +43,7 @@ a{
         .btnheader{
             margin-top:30px;
             button{
-                padding:10px;
+                padding:15px;
                 background-color: rgb(14, 126, 126);
                 border:none;
                 outline: none;
@@ -51,7 +51,7 @@ a{
                 border-radius: 15px;
                 box-shadow: 8px 18px 25px rgba(0,0,0,0.15);
                 cursor: pointer;
-                width:250px;
+                width:220px;
             }
         }
       
@@ -61,7 +61,7 @@ a{
 .snippets{
     width:100%;
     max-width:700px;
-    margin:20px auto;
+    margin:60px auto;
     h1{
         text-align: center;
     }
@@ -263,7 +263,7 @@ footer{
             .btnheader{
                 margin-top:30px;
                 button{
-                    padding:10px;
+                    padding:15px;
                     background-color: rgb(14, 126, 126);
                     border:none;
                     outline: none;
@@ -341,6 +341,7 @@ footer{
             align-items: center;
             img{
                 width:300px;
+               
             }
         }
     }
